@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "nombre" : "Juan",
+  "apellido" : "Pérez",
+  "fecha" : [ 1990, 1, 15 ],
+  "cargo" : "Ingeniero"
+}, {
+  "id" : 2,
+  "nombre" : "Maria",
+  "apellido" : "Gómez",
+  "fecha" : [ 1985, 6, 20 ],
+  "cargo" : "Gerente"
+}, {
+  "id" : 3,
+  "nombre" : "Alex",
+  "apellido" : "Almaraz",
+  "fecha" : [ 2003, 6, 20 ],
+  "cargo" : "Ingeniero"
+} ]
